@@ -10,18 +10,8 @@ It enables users to explore data dynamically using Financial Year and Month slic
 
 # 📊 Dashboard Preview
 
-> Add your dashboard screenshot inside an **Images** folder and rename it as **Dashboard.png**
+<img width="1307" height="750" alt="Dashboard" src="https://github.com/user-attachments/assets/73c67c7f-f934-464a-81a2-88dce532e77f" />
 
-```text
-Images/
-└── Dashboard.png
-```
-
-Then display it using:
-
-```markdown
-![Dashboard](Images/Dashboard.png)
-```
 
 ---
 
